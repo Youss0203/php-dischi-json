@@ -20,9 +20,9 @@
 
     <div class="container"> 
       <h1>Playlist</h1>
-        <div class="my_flex" >
+        <div class="my_flex my_container" >
             <div class="card w-100"  v-for="(disco, index) in discoList">
-                <img src="" class="card-img-top" alt="foto canzone">
+                <img :src="disco.poster" class="card-img-top" alt="foto canzone">
                 <div class="card-body">
                   <h5 class="card-title"> {{ disco.title }}</h5>
                   <p class="card-text"> {{ disco.author }} </p>

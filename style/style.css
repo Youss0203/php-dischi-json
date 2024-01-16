@@ -1,4 +1,6 @@
-.my_flex{
+
+.my_container{
+    width: 100%;
     display: flex;
     width: calc(100% / 3);
     flex-wrap:wrap;
