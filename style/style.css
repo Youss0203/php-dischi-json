@@ -1,0 +1,5 @@
+.my_flex{
+    display: flex;
+    width: calc(100% / 3);
+    flex-wrap:wrap;
+}

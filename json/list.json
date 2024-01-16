@@ -1,0 +1,38 @@
+
+[
+    {
+        "title": "Outside",
+        "author": "Ellie Goulding",
+        "year": 2014,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWY2MzBhYjctOTI5Ni00ZTYwLTk0Y2YtNDc5YThiNDM3MmMwXkEyXkFqcGdeQXVyNjYzMDA4MTI@._V1_.jpg"
+    },
+    {
+        "title": "Casanova",
+        "author": "Solking",
+        "year": 2023,
+        "poster": "https://upload.wikimedia.org/wikipedia/en/2/23/Soolking_and_Gazo_-_Casanova.png"
+    },
+    {
+        "title": "Rockabye",
+        "author": "Clean Bandit",
+        "year": 2016,
+        "poster": "https://www.billboard.com/wp-content/uploads/media/clean-bandit-rockabye-vid-still-2016-billboard-1548.jpg"
+    },
+    {
+        "title": "Heat Waves",
+        "author": "Glass Animals",
+        "year": 2020,
+        "poster": "https://upload.wikimedia.org/wikipedia/en/b/b0/Glass_Animals_-_Heat_Waves.png"
+    },
+    {
+        "title": "I love it",
+        "author": "Icona Pop",
+        "year": 2012,
+        "poster": "https://i1.sndcdn.com/artworks-000050506625-b8f3ex-t500x500.jpg"
+    },
+    {
+        "title": "Run This Town",
+        "author": "Jay-Z & Rihanna",
+        "year": 2009,
+        "poster": "https://media.pitchfork.com/photos/5931bf0ad13a3d6b2476536a/16:9/w_1280,c_limit/c647c938.jpg"
+    }] 
