@@ -4,14 +4,14 @@ createApp({
     data() {
         return {
             apiUrl: './server.php',
-            discoList : [],
+            songList : [],
         }
     },
 
     methods: {
-        getDiscoList(){
+        getPlayList(){
             axios.get(this.apiUrl).then((response) =>{
-                this.discoList = response.data;
+                this.songList = response.data;
 
                 console.log(response.data);
             });
@@ -19,7 +19,7 @@ createApp({
     },
 
     created(){
-        this.getDiscoList();
+        this.getPlayList();
     }
 
 }).mount('#app') 
